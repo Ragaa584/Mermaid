@@ -1,0 +1,11 @@
+name: MermaidSystem
+version: '1.0.0'
+main: com.mermaid.system.MermaidPlugin
+api-version: '1.21'
+author: Ragaa
+description: A mermaid transformation system with 8 charm types.
+
+commands:
+  mermaid:
+    description: Opens the Mermaid Charms menu.
+    usage: /mermaid
